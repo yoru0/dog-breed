@@ -1,0 +1,12 @@
+,Value
+Total Images,10222
+Number of Breeds,120
+Samples per Breed (Mean),85.18
+Samples per Breed (Std),13.30
+Samples per Breed (Min),66
+Samples per Breed (Max),126
+Class Imbalance Ratio,1.91
+Mean Image Width,442.4 px
+Mean Image Height,391.0 px
+Mean Aspect Ratio,1.17
+Mean File Size,35.3 KB
